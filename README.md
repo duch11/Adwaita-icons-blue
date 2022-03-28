@@ -3,12 +3,8 @@
 Blue folders for adwaita.
 
 Now with install script, to ensure a better icon pack compatibility.
-(Fixes an issue with ![solanum](https://github.com/BrainBlasted/Solanum/)
 
 Made for Fedora 35
-
-![image](https://user-images.githubusercontent.com/17031368/160443083-25a6a9a2-1f89-4b07-8c74-9190098889e1.png)
-
 
 ## How to install
 
@@ -18,4 +14,8 @@ chmod +x install.sh
 ./install.sh
 ```
 
-![blue folder](folder.png)
+## Why this fork?
+
+Fixes an compatibility issue with the **skip icon** used in the pomoro app ![solanum](https://github.com/BrainBlasted/Solanum/)
+
+<img src="https://user-images.githubusercontent.com/17031368/160444766-d72e865c-c518-41b1-9a92-91d7b81e7c04.png" width="400" />
